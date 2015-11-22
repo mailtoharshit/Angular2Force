@@ -1,4 +1,3 @@
- <script>
              function forceList(){
                   this.accounts = ["BurlingTon Textiles", "Texas Instruments", "NASA", "AirBnb", "Google"];
                 }
@@ -37,4 +36,3 @@
             document.addEventListener("DOMContentLoaded", function () {
             angular.bootstrap(forceBody);
             });
-         </script>
